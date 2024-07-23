@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "arch.h": "c",
+        "mach_types.h": "c",
+        "dyld.h": "c",
+        "thread_status.h": "c"
+    }
+}

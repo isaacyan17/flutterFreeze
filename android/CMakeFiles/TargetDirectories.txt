@@ -1,0 +1,3 @@
+/Users/yjq/Documents/projects/me/flutterfreeze/android/CMakeFiles/native_freeze.dir
+/Users/yjq/Documents/projects/me/flutterfreeze/android/CMakeFiles/edit_cache.dir
+/Users/yjq/Documents/projects/me/flutterfreeze/android/CMakeFiles/rebuild_cache.dir
